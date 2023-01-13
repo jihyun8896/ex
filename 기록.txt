@@ -1,0 +1,60 @@
+도구(프로그램앱)
+그래픽틀(포토샵, 일러스트레이터)
+웹브라우저(크롬)
+웹에디터(비쥬얼 스튜디오 코드) - korean, 
+
+보고서용
+한글, 파워포인트, 워드 중 1
+
+> 설치필요
+
+유용한웹사이트
+1. https://github.com/ (깃헙, 저장소) >북마크, 회원가입
+2. https://pixabay.com/ko/ (무료이미지사이트)
+
+
+해상도 ppi (pixel per inch)
+색상 가산(빛) 3원색  - Red, Green, Blue (웹) >rgb
+      감산(안료) 3원색 - Cyan, Magenta, Yellow, blacK (인쇄) >cmyk
+
+웹표준해상도 = 72ppi
+
+
+
+시안디자인 => 웹표준(html, css(style사용), javaScript)
+
+html - 정보전달, css - 정보전달+꾸밈요소(스타일 추가), javaScript - css+동적인 요소 
+
+비쥬얼스튜디오코드
+
+파일생성 후 ! > enter 
+
+onclick - 버튼 클릭했을때 동작
+
+document - 문서
+querySelector() - 괄호 안의 것을 찾음
+
+바깥여백 - margin-위치
+안쪽여백 - padding-위치
+
+슬래쉬(/) - 주석
+
+그래픽표현방식
+
+1. 비트맵(픽셀 = 점의 집합) - 포토샵(사진편집)
+2. 백터(점과 점) - 일러스트레이터(그리는용도)
+
+일러스트레이터
+
+포토샵
+
+ctrl+alt+shift+s - 웹으로 저장
+alt+delete - 포그라운드컬러전체페인트
+ctrl+delete - 백그라운드컬러전체페인트
+ctrl + d - 선택영역해제
+ctrl+r - 눈금자, 눈금자에서 끌어오면 가이드라인설정 가능
+ctrl+; - 가이드라인 보이게 안보이게 설정 가능
+view > clearguides - 가이드라인 전체삭제
+alt+ctrl+; - 가이드라인잠금/해제
+
+/pam7461/ex
